@@ -13,14 +13,7 @@ class JSONDataProviderManager {
     static let sharedInstance = JSONDataProviderManager()
     
     private init(){
-    }
-    
-    func jsonStringFromFile(fileName: String) -> String? {
-        guard let jsonData = JSONDataFromFile(fileName) else {
-            return nil
-        }
-        return String(data: jsonData, encoding: NSUTF8StringEncoding)
-    }
+    }   
     
     private func JSONDataFromFile(fileName: String) -> NSData? {
         if let str = NSBundle.mainBundle().pathForResource(fileName, ofType: "json") {
@@ -28,5 +21,14 @@ class JSONDataProviderManager {
         } else {
             return nil
         }
+    }
+}
+
+extension JSONDataProviderManager: DataProviderProtocol {
+    func jsonStringFromFile(fileName: String) -> String? {
+        guard let jsonData = JSONDataFromFile(fileName) else {
+            return nil
+        }
+        return String(data: jsonData, encoding: NSUTF8StringEncoding)
     }
 }

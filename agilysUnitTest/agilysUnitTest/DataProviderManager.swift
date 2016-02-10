@@ -12,7 +12,11 @@ import ObjectMapper
 enum DataError: ErrorType {
     case NoData
     case Empty
-    case Serialize
+    case Serialize(String)
+}
+
+protocol DataProviderProtocol {
+    func jsonStringFromFile(fileName: String) -> String?
 }
 
 
@@ -20,15 +24,17 @@ class DataProviderManager {
     /// the sharedInstance as this is a Singleton
     static let sharedInstance = DataProviderManager()
     
+    var dataProvider: DataProviderProtocol = JSONDataProviderManager.sharedInstance
+    
     private init(){
     }
     
     func getResult() throws -> [BingCustomSearchItemModel] {
-        guard let jsonStr = JSONDataProviderManager.sharedInstance.jsonStringFromFile("bingsearchResult") else {
+        guard let jsonStr = dataProvider.jsonStringFromFile("bingsearchResult") else {
             throw DataError.NoData
         }
         guard let result = Mapper<BingCustomSearchResultModel>().map(jsonStr) else {
-            throw DataError.Serialize
+            throw DataError.Serialize(jsonStr)
         }
         guard let items = result.items else {
             throw DataError.Empty

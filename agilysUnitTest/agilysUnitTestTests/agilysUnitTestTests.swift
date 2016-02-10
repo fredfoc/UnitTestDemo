@@ -22,11 +22,36 @@ class agilysUnitTestTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-//        let vc = ViewController()
-//        vc.viewDidLoad()
-//        XCTAssertNotNil(vc)
+        enum MockData: String {
+            case Nil = "nil"
+        }
+        
+        class MockDataProviderManager {
+            func mockedJsonStringFromFile(dataType: MockData) -> String? {
+                switch dataType {
+                case .Nil:
+                    return nil
+                default:
+                    return "no key"
+                }
+            }
+        }
+        class MockDataProviderManagerNil: MockDataProviderManager, DataProviderProtocol {
+            func jsonStringFromFile(fileName: String) -> String? {
+                return mockedJsonStringFromFile(.Nil)
+            }
+        }
+        
+        DataProviderManager.sharedInstance.dataProvider = MockDataProviderManagerNil()
+        do {
+            try DataProviderManager.sharedInstance.getResult()
+            XCTAssertTrue(true)
+        } catch DataError.NoData {
+            XCTAssertTrue(true)
+        } catch {
+            // nothing
+        }
+        
     }
     
 }
