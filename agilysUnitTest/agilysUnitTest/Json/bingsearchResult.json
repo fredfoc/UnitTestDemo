@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c7a337f2-38a7-49fd-b968-73c60cb892c2",
+        "Title": "This WordPress.com site is the cat’s pajamas",
+        "MediaUrl": "http://fruitetlegumes.files.wordpress.com/2012/11/cropped-pomme_caramalisee.jpg",
+        "SourceUrl": "http://fruitetlegumes.wordpress.com/",
+        "DisplayUrl": "fruitetlegumes.wordpress.com",
+        "Width": "1000",
+        "Height": "441",
+        "FileSize": "55770",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M54306229a509729c0c80fa4e811b562cH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "132",
+          "FileSize": "4385"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c2c1a850-bf1a-43bb-8cd0-2dc3e6959c0d",
+        "Title": "Apfel-Liquid besticht durch den fruchtig frischen Geschmack des ...",
+        "MediaUrl": "http://www.schawenzl.de/WebRoot/Store10/Shops/63173958/4E84/815F/706A/50E5/B49D/C0A8/28BE/EEE0/Apfel.png",
+        "SourceUrl": "http://www.schawenzl.de/Apfel-Liquid",
+        "DisplayUrl": "www.schawenzl.de/Apfel-Liquid",
+        "Width": "400",
+        "Height": "400",
+        "FileSize": "118459",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M78dd6d7ae25f7561d3221d0ae8b1439bH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "5520"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6c49ee23-0312-4427-8ce4-94bb0d44149c",
+        "Title": "pomme rouge",
+        "MediaUrl": "http://images.4ever.eu/data/674xX/nature/plantes/fruits/[images.4ever.eu]%20pomme%20rouge%20155561.jpg",
+        "SourceUrl": "http://images.4ever.eu/nature/plantes/fruits/pomme-rouge-155561",
+        "DisplayUrl": "images.4ever.eu/nature/plantes/fruits/pomme-rouge-155561",
+        "Width": "674",
+        "Height": "679",
+        "FileSize": "33021",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mb1c6d0e9dd102e83d682a7a316ce0098o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "297",
+          "Height": "300",
+          "FileSize": "6496"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "57bad866-353a-44a8-a225-302bab7a9744",
+        "Title": "Dessert du jour : Comment bien choisir sa pomme ? | meltyFood",
+        "MediaUrl": "http://media.meltyfood.fr/article-1083914-ajust_930/la-royal-gala-reine-des-pommes.jpg",
+        "SourceUrl": "http://www.meltyfood.fr/dessert-du-jour-comment-bien-choisir-sa-pomme-galerie-360417-1083914.html",
+        "DisplayUrl": "www.meltyfood.fr/dessert-du-jour-comment-bien-choisir-sa-pomme...",
+        "Width": "930",
+        "Height": "930",
+        "FileSize": "64713",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Ma54a28f727174ee8eecf784129bb7769o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "7077"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "88f889f0-9918-4984-84b2-97f7819ae05e",
+        "Title": "Pomme verte #9",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_verte__9_4b37a52872a5c.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000549-pomme-verte-9.html",
+        "DisplayUrl": "www.niffylux.com/00000549-pomme-verte-9.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "837543",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M881f1083a63617e22e8fa33c8b746a85H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "6254"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3b1525ea-527e-4060-b290-cf52611155cb",
+        "Title": "Pomme Lrg | Free Images at Clker.com - vector clip art online, royalty ...",
+        "MediaUrl": "http://www.clker.com/cliparts/9/a/1/e/13397010011226451784pomme_lrg.jpg",
+        "SourceUrl": "http://www.clker.com/clipart-214335.html",
+        "DisplayUrl": "www.clker.com/clipart-214335.html",
+        "Width": "1282",
+        "Height": "1398",
+        "FileSize": "977285",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M9a1e9b2bdf1e0aa9001e60d9cb4542dbo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "275",
+          "Height": "300",
+          "FileSize": "7483"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a2bbfc01-e95e-489f-962a-71c8e5cb560c",
+        "Title": "Pomme bicolore #1",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_bicolore___4b740e400d183.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000677-pomme-bicolore-1.html",
+        "DisplayUrl": "www.niffylux.com/00000677-pomme-bicolore-1.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "782507",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3604c18037efc75b891f123823f27af2H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "8789"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1ebf39f5-0f3d-4e3d-a16e-d0620d89d239",
+        "Title": "Financial Benefits From Prevention Are Elusive : Shots - Health News ...",
+        "MediaUrl": "http://media.npr.org/assets/blogs/health/images/2009/09/apple_sq-cbcbe3ad1840f515481aa12ff3a0f64ebfefd482-s6-c30.jpg",
+        "SourceUrl": "http://www.npr.org/blogs/health/2009/09/financial_benefits_from_preven.html",
+        "DisplayUrl": "www.npr.org/blogs/health/2009/09/financial_benefits_from_preven.html",
+        "Width": "948",
+        "Height": "948",
+        "FileSize": "35462",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M49c229ca2732f5385d88af107ace0b4fH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "480",
+          "FileSize": "14410"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a85e67c8-4c59-4601-ac9a-e7e32b3c91dc",
+        "Title": "Pommes- tous les fournisseurs",
+        "MediaUrl": "http://www.hellopro.fr/images/produit-2/3/2/2/pomme-ariane-1091223.jpg",
+        "SourceUrl": "http://www.hellopro.fr/pommes-2007597-fr-1-feuille.html",
+        "DisplayUrl": "www.hellopro.fr/pommes-2007597-fr-1-feuille.html",
+        "Width": "275",
+        "Height": "275",
+        "FileSize": "57246",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M9c34c437ec47202314f4c48c83a3464ao0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "275",
+          "Height": "275",
+          "FileSize": "5319"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f185944c-7be2-4af6-a7d4-f5bfaebf70c6",
+        "Title": "Pomme verte croquer #2",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_verte_croq_4b37c043be9ae.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000554-pomme-verte-croquer-2.html",
+        "DisplayUrl": "www.niffylux.com/00000554-pomme-verte-croquer-2.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "758660",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M69b9c104d18403a3f76dd0d67013d3a8H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "5733"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a5023383-31c4-4097-8d05-5288d5fe6d3b",
+        "Title": "Apple Fruit | Best Wallpapers",
+        "MediaUrl": "http://3.bp.blogspot.com/-0AHRTVSc3Ag/ToV1HFrBqNI/AAAAAAAABrw/xS_RI0ZKoeU/s1600/apple2.jpg",
+        "SourceUrl": "http://bestfwallpapers.blogspot.com/2011/09/apple-fruit.html",
+        "DisplayUrl": "bestfwallpapers.blogspot.com/2011/09/apple-fruit.html",
+        "Width": "600",
+        "Height": "600",
+        "FileSize": "101780",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Ma457412dd3686bca91520c881ff888d9H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "480",
+          "FileSize": "23097"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e6b3098b-dbd7-4ad2-90f1-c0203eef743c",
+        "Title": "POMME - Catalogue Fruits et légumes - Biocoop Tarbes",
+        "MediaUrl": "http://www.biocoop-tarbes.com/fichiers_produits/standard/184806pommes.jpg",
+        "SourceUrl": "http://www.biocoop-tarbes.com/c/POMME/275/0",
+        "DisplayUrl": "www.biocoop-tarbes.com/c/POMME/275/0",
+        "Width": "1018",
+        "Height": "1000",
+        "FileSize": "35365",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0625b75dea0f647f6aa95ee4b45296fdo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "294",
+          "FileSize": "4487"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b3706ac3-bb14-479e-ab76-feb6e1093d03",
+        "Title": "Pommes, les bienfaits des pommes",
+        "MediaUrl": "http://sincerity.s.i.pic.centerblog.net/o/46f59dc5.jpg",
+        "SourceUrl": "http://sincerity.centerblog.net/4772-les-vertus-des-pommes",
+        "DisplayUrl": "sincerity.centerblog.net/4772-les-vertus-des-pommes",
+        "Width": "485",
+        "Height": "383",
+        "FileSize": "22657",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Me79926cbf8cc90d6346bb6e83b4ea393o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "236",
+          "FileSize": "5707"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c8c25211-01aa-44ea-ba72-8aa17c60aa7d",
+        "Title": "Une pomme par jour éloigne-t-elle le docteur pour toujours ...",
+        "MediaUrl": "http://objectif226.ca/wp-content/uploads/2012/08/pomme.jpg",
+        "SourceUrl": "http://objectif226.ca/?p=1412",
+        "DisplayUrl": "objectif226.ca/?p=1412",
+        "Width": "293",
+        "Height": "283",
+        "FileSize": "9145",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M0c00156804e02247f51601562a125aa2o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "293",
+          "Height": "283",
+          "FileSize": "5898"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "910e2705-77bc-4610-a432-509735ad19e2",
+        "Title": "La pomme, mythique bac à glaçons des années 70. Kitsch et pratique ...",
+        "MediaUrl": "http://www.hivingroom.com/boutique1/45-153-thickbox/pomme-a-glacons-rouge.jpg",
+        "SourceUrl": "http://www.hivingroom.com/boutique1/decorer/45-pomme-a-glacons-rouge.html",
+        "DisplayUrl": "www.hivingroom.com/boutique1/decorer/45-pomme-a-glacons-rouge.html",
+        "Width": "1200",
+        "Height": "1200",
+        "FileSize": "74775",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mb954d1958440c3cac8d38f06b532a93bo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "4188"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6b06dde0-c183-4dc4-822e-f6c9fdaf3ea1",
+        "Title": "Hier, j'ai mangé une pomme !",
+        "MediaUrl": "http://www.biocoop-tarbes.com/fichiers_produits/standard/170800pommes.jpg",
+        "SourceUrl": "http://www.planete-revelations.com/t12353-hier-j-ai-mange-une-pomme",
+        "DisplayUrl": "www.planete-revelations.com/t12353-hier-j-ai-mange-une-pomme",
+        "Width": "1316",
+        "Height": "1000",
+        "FileSize": "158421",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9ecee8b9c495cbe096e9a72ff7fd3943o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "227",
+          "FileSize": "9034"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d3b2a630-9cda-402b-b500-4aba4e9be9d7",
+        "Title": "Pomme, d'Isabelle Lambert aux éditions Modus Vivendi",
+        "MediaUrl": "http://www.triple-c.fr/wordpress/wp-content/uploads/2012/09/pomme.jpg",
+        "SourceUrl": "http://www.triple-c.fr/coups-de-coeur/pomme",
+        "DisplayUrl": "www.triple-c.fr/coups-de-coeur/pomme",
+        "Width": "460",
+        "Height": "250",
+        "FileSize": "41442",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M4bb6f504e34f188ef873258b18fa6769o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "163",
+          "FileSize": "4098"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "97958324-c192-4b59-9c3e-d56264dca253",
+        "Title": "Portrait : La pomme « Lorraine Magazine",
+        "MediaUrl": "http://www.lorrainemag.com/wp-content/uploads/2011/11/pommes.jpg",
+        "SourceUrl": "http://www.lorrainemag.com/environnement/portrait-la-pomme/",
+        "DisplayUrl": "www.lorrainemag.com/environnement/portrait-la-pomme",
+        "Width": "1000",
+        "Height": "1500",
+        "FileSize": "191399",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mddfbdb4c82328b782b4a2522903b7270o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "11935"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f875ea4d-1790-4d81-8910-cc01e86cf726",
+        "Title": "Pomme golden #8",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_golden__8_4b73f055505e7.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000676-pomme-golden-8.html",
+        "DisplayUrl": "www.niffylux.com/00000676-pomme-golden-8.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "672047",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mb3add7e0cbea8ee8e828959d62f54b3aH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "5314"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f2f1e696-81b5-444e-8cf0-ecb1aee74575",
+        "Title": "Pomme.fr - Des questions sur la pomme ?",
+        "MediaUrl": "http://chenweb.free.fr/portfolio/pomme/img/visuel/Pomme_rouge.png",
+        "SourceUrl": "http://chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "DisplayUrl": "chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "Width": "345",
+        "Height": "348",
+        "FileSize": "66570",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M3fbc2ceec86343ad874c876c3f3e8677o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "297",
+          "Height": "300",
+          "FileSize": "5093"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b7d6bfe2-4bd7-4445-8393-aeaee8f6503c",
+        "Title": "Pomme.fr - Des questions sur la pomme ?",
+        "MediaUrl": "http://chenweb.free.fr/portfolio/pomme/img/visuel/pommesvertes.jpg",
+        "SourceUrl": "http://chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "DisplayUrl": "chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "50137",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M5602d802f25eed4e7a94aea1cbde8c7bo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "4639"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "42c206c5-7cf2-44a4-91c3-134a932d08ba",
+        "Title": "Cette jolie petite pomme à couteau est très croquante et sucrée ...",
+        "MediaUrl": "http://media.paperblog.fr/i/152/1523076/compote-deux-coups-cuillere-pomme-L-1.jpeg",
+        "SourceUrl": "http://www.paperblog.fr/1523076/compote-en-deux-coups-de-cuillere-a-pomme/",
+        "DisplayUrl": "www.paperblog.fr/1523076/compote-en-deux-coups-de-cuillere-a-pomme",
+        "Width": "800",
+        "Height": "994",
+        "FileSize": "57151",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M293e29e11b087ba9fc2c19c9e170905fo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "241",
+          "Height": "300",
+          "FileSize": "5221"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "41e5e032-6ba6-4769-87f2-774a275d832a",
+        "Title": "Crunch et saveur acidulée, la pomme Ariane s'invite dans la cuisine ...",
+        "MediaUrl": "http://p9.storage.canalblog.com/96/77/369885/81610691_o.png",
+        "SourceUrl": "http://bruitcotecuisine.canalblog.com/archives/2012/12/03/25722970.html",
+        "DisplayUrl": "bruitcotecuisine.canalblog.com/archives/2012/12/03/25722970.html",
+        "Width": "2048",
+        "Height": "2001",
+        "FileSize": "3028541",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M5f2e1d81b234ebf9ed500376a210e72fo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "293",
+          "FileSize": "6346"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5e954be8-c7eb-42fe-8c35-de4f7c702d17",
+        "Title": "Description Pomme verte.png",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/6/68/Pomme_verte.png",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Pomme_verte.png",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Pomme_verte.png",
+        "Width": "750",
+        "Height": "750",
+        "FileSize": "508352",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M5e2ad532346532b3801e85c67f555755o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "8330"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "eb8bdf22-7520-464a-a13c-efa6fa0d4691",
+        "Title": "Pomme verte croquer #3",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_verte_croq_4b37a7ab5b7d2.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000555-pomme-verte-croquer-3.html",
+        "DisplayUrl": "www.niffylux.com/00000555-pomme-verte-croquer-3.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "775776",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M15e6397bdc1efc2964b447bc70e14f76o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "3798"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "22408c1b-4a8c-48d0-a506-00bafbe415d1",
+        "Title": "Envoyer par courriel Imprimer",
+        "MediaUrl": "http://draf.centre.agriculture.gouv.fr/IMG/arton1795.jpg?1318334316",
+        "SourceUrl": "http://draf.centre.agriculture.gouv.fr/Journee-de-la-pomme-avec-le",
+        "DisplayUrl": "draf.centre.agriculture.gouv.fr/Journee-de-la-pomme-avec-le",
+        "Width": "302",
+        "Height": "293",
+        "FileSize": "13096",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Maeb4b9904b7c1adaee538a938250cea2o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "291",
+          "FileSize": "6519"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1bfbf4ab-5763-4ea9-9f3f-63b9c5990f88",
+        "Title": "La pomme | Blog \"La Cuisine de Bébé\" : mettez les petits pots dans ...",
+        "MediaUrl": "http://www.cuisine-de-bebe.com/wp-content/uploads/2011/11/pomme.jpg",
+        "SourceUrl": "http://www.cuisine-de-bebe.com/dossiersalimentation/la-pomme/",
+        "DisplayUrl": "www.cuisine-de-bebe.com/dossiersalimentation/la-pomme",
+        "Width": "590",
+        "Height": "390",
+        "FileSize": "47016",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M7d15c13e7aa80a3e480a0906df09dad3H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "317",
+          "FileSize": "12452"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d91c7d2b-b003-41b1-8278-e1705cafe8fa",
+        "Title": "Terre de Bio : Pommes - Belle de Boskoop - 1 kg",
+        "MediaUrl": "http://www.terre-de-bio.fr/images/imgProduits/Belle-Boskoop.jpg",
+        "SourceUrl": "http://terre-de-bio.fr/produit.php?produit_id=363",
+        "DisplayUrl": "terre-de-bio.fr/produit.php?produit_id=363",
+        "Width": "688",
+        "Height": "599",
+        "FileSize": "75505",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Me8734790d9d96e7d51a96a5e234a3eafo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "261",
+          "FileSize": "10053"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3dcb3757-3ba5-4b68-8dc3-8bcfa5f26350",
+        "Title": "Pomme golden #7",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_golden__7_4b73f00d0d22f.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000675-pomme-golden-7.html",
+        "DisplayUrl": "www.niffylux.com/00000675-pomme-golden-7.html",
+        "Width": "1177",
+        "Height": "1772",
+        "FileSize": "723940",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M54561ee92f0227a75223145f390ba481o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "199",
+          "Height": "300",
+          "FileSize": "3071"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b3d3a805-49f3-4adc-99eb-93d1c725ae38",
+        "Title": "Pomme bicolore #5",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_bicolore___4b7411154fdb8.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000681-pomme-bicolore-5.html",
+        "DisplayUrl": "www.niffylux.com/00000681-pomme-bicolore-5.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "761487",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mf03239bce3a6445797b729a123469d04H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "7392"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1094dc86-ff18-43bc-ae86-63a7c018d151",
+        "Title": "est quoi cette pomme ? Cette pomme m'accompagnera tout le long de ...",
+        "MediaUrl": "http://p8.storage.canalblog.com/84/02/753970/82843100_o.jpg",
+        "SourceUrl": "http://ohregime.canalblog.com/archives/2013/01/14/26154907.html",
+        "DisplayUrl": "ohregime.canalblog.com/archives/2013/01/14/26154907.html",
+        "Width": "1200",
+        "Height": "1200",
+        "FileSize": "274531",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M358630e293b45989d138dc0bc0347b45o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "6038"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "507877db-da55-45fa-b97e-8e111e7294fc",
+        "Title": "Sérum - 1S43 : tech-nature.com - fabricant à façon de masques peel ...",
+        "MediaUrl": "http://www.tech-nature.com/images/Image/Image/surprenante-nature-pomme-verte-big.jpg",
+        "SourceUrl": "http://www.tech-nature.com/serum-1s43-xml-351_410-969.html",
+        "DisplayUrl": "www.tech-nature.com/serum-1s43-xml-351_410-969.html",
+        "Width": "2462",
+        "Height": "2246",
+        "FileSize": "1957294",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mabcf00410d50d9f48ebe4957d6f0caa5o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "273",
+          "FileSize": "8265"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8fa6f802-b970-4140-9db8-549428f10a1c",
+        "Title": "pomme",
+        "MediaUrl": "http://s2.e-monsite.com/2010/02/17/07/pomme1.gif",
+        "SourceUrl": "http://nokomis.e-monsite.com/pages/fruits/pomme.html",
+        "DisplayUrl": "nokomis.e-monsite.com/pages/fruits/pomme.html",
+        "Width": "270",
+        "Height": "260",
+        "FileSize": "19230",
+        "ContentType": "image/gif",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mc4fb7921112c2683696ad514dfcbca6bo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "270",
+          "Height": "260",
+          "FileSize": "8012"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2c1a6224-1cdf-4d8e-8268-66b91db36d37",
+        "Title": "Pomme | La Gastronomie Crue",
+        "MediaUrl": "http://khepristudio.com/cru/wp-content/uploads/2010/11/apple1.jpg",
+        "SourceUrl": "http://lagastronomiecrue.com/archives/pomme/",
+        "DisplayUrl": "lagastronomiecrue.com/archives/pomme",
+        "Width": "300",
+        "Height": "300",
+        "FileSize": "31799",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9afba6bc0d5d81f7e24fa5d7806ebdbao0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "6927"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7ff8a987-2e4c-4655-9be5-aeb15597343e",
+        "Title": "Mais attention, chaque pomme a ses propriétés qui la rendent unique ...",
+        "MediaUrl": "http://croquezmontsainthilaire.com/wp-content/themes/megavolt-bootstrap/images/template/pomme.png",
+        "SourceUrl": "http://croquezmontsainthilaire.com/les-pommes/",
+        "DisplayUrl": "croquezmontsainthilaire.com/les-pommes",
+        "Width": "290",
+        "Height": "261",
+        "FileSize": "92400",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M811a82e536971aafea30bedf05df23edo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "290",
+          "Height": "261",
+          "FileSize": "7550"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "484081a2-019e-4f8d-9f00-06c015ed3711",
+        "Title": "Pomme.fr - Des questions sur la pomme ?",
+        "MediaUrl": "http://chenweb.free.fr/portfolio/pomme/img/visuel/Vari%C3%A9t%C3%A9s-de-Pommes.jpg",
+        "SourceUrl": "http://chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "DisplayUrl": "chenweb.free.fr/portfolio/pomme/faq_pomme.html",
+        "Width": "1694",
+        "Height": "1133",
+        "FileSize": "673479",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M36ffe6bb7cc4c5a475f5666027d756b4o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "4974"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "16fcaec2-d6f8-4fc4-8e13-4e323cf70c49",
+        "Title": "Pomme coupée",
+        "MediaUrl": "http://images.4ever.eu/data/download/nature/plantes/fruits/[images.4ever.eu]%20pomme%20coupee%20153522.jpg",
+        "SourceUrl": "http://images.4ever.eu/nature/plantes/fruits/pomme-coupee-153522",
+        "DisplayUrl": "images.4ever.eu/nature/plantes/fruits/pomme-coupee-153522",
+        "Width": "3000",
+        "Height": "3417",
+        "FileSize": "509670",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M790ec05ce42105fbf359e930fe244731o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "263",
+          "Height": "300",
+          "FileSize": "5778"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "95200d1e-7801-4b3d-937f-e5b128fcf2ec",
+        "Title": "Pomme Granny smith",
+        "MediaUrl": "http://fr.academic.ru/pictures/frwiki/71/GreenApple.png",
+        "SourceUrl": "http://fr.academic.ru/dic.nsf/frwiki/1354014",
+        "DisplayUrl": "fr.academic.ru/dic.nsf/frwiki/1354014",
+        "Width": "1280",
+        "Height": "960",
+        "FileSize": "1702227",
+        "ContentType": "image/png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M8c8aecad2ae6235ae86313cba6ad6c7eo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "3119"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "66e6b579-7ad8-4d46-b1a3-41a46869cb15",
+        "Title": "Des chansons sur la pomme - L'école des verts prés",
+        "MediaUrl": "http://p6.storage.canalblog.com/69/79/1030326/79999149_o.jpg",
+        "SourceUrl": "http://vertspres.canalblog.com/archives/2012/10/12/25316022.html",
+        "DisplayUrl": "vertspres.canalblog.com/archives/2012/10/12/25316022.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "143269",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Md2523c5ed86f761a219331d2b3d004ebH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "6620"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ee5c3ce2-4ff9-4bba-9e9f-b1a8cb91421f",
+        "Title": "Décrire l’épicarpe de la pomme",
+        "MediaUrl": "http://www.pomum.fr/upload/lavee.JPG",
+        "SourceUrl": "http://www.pomum.fr/?p=134",
+        "DisplayUrl": "www.pomum.fr/?p=134",
+        "Width": "640",
+        "Height": "571",
+        "FileSize": "153547",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M80a301f8056bbb180c4dc828b54d583ao0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "267",
+          "FileSize": "5514"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b80d5933-9648-4f41-a1b4-f1a12de6dea2",
+        "Title": "File:Pomme Honeycrisp.JPG",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/2/26/Pomme_Honeycrisp.JPG",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Pomme_Honeycrisp.JPG",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Pomme_Honeycrisp.JPG",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "320964",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M97178dc2736477adc31446e98ad0a3b9o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "4714"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bc568dca-4d8d-456f-b47d-bdae2af7348f",
+        "Title": "peluche pomme réf pomme",
+        "MediaUrl": "http://www.doudou-shop.com/produits/pomme/pomme_zoom.jpg",
+        "SourceUrl": "http://www.doudou-shop.com/peluches/pomme_imprimer.php",
+        "DisplayUrl": "www.doudou-shop.com/peluches/pomme_imprimer.php",
+        "Width": "540",
+        "Height": "604",
+        "FileSize": "56167",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mae923ecb5ae3eccef674970eaf587276o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "268",
+          "Height": "300",
+          "FileSize": "6593"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4aaf3e9e-7590-4b86-af24-6d719882dc85",
+        "Title": "Pomme verte croquer #6",
+        "MediaUrl": "http://www.niffylux.com/components/com_virtuemart/shop_image/product/Pomme_verte_croq_4b37a8bf13a58.jpg",
+        "SourceUrl": "http://www.niffylux.com/00000558-pomme-verte-croquer-6.html",
+        "DisplayUrl": "www.niffylux.com/00000558-pomme-verte-croquer-6.html",
+        "Width": "1772",
+        "Height": "1177",
+        "FileSize": "813097",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M616da653ce96603fca3f4e7f65dc45f1H0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "480",
+          "Height": "318",
+          "FileSize": "5804"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0519331f-9fe0-4e27-9cd9-474f652751b0",
+        "Title": "Pomme moscovite - Libelle Lekker",
+        "MediaUrl": "http://recipes.sanoma.be/images/libelle-lekker/q75/w391/h293/7681/pomme-moscovite.jpg",
+        "SourceUrl": "http://www.libelle-lekker.be/recepten/eten/6355/pomme-moscovite",
+        "DisplayUrl": "www.libelle-lekker.be/recepten/eten/6355/pomme-moscovite",
+        "Width": "391",
+        "Height": "293",
+        "FileSize": "15164",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mc1d411c4dae7385998914ce5566fd522o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "7059"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3778f2e9-a03a-4ff8-a2d6-687b32ebe4f7",
+        "Title": "pomme pomme de terre potimarron radis noir scarole frisée février",
+        "MediaUrl": "http://www.duboucheaoreille.fr/uploads/images/images_Fruits_é_Légumes/pomme.gif",
+        "SourceUrl": "http://www.duboucheaoreille.fr/index.php?page=fruits-et-legumes-de-saison",
+        "DisplayUrl": "www.duboucheaoreille.fr/index.php?page=fruits-et-legumes-de-saison",
+        "Width": "596",
+        "Height": "594",
+        "FileSize": "156442",
+        "ContentType": "image/gif",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M0b53934c587f3804dca8cb155a6a012fo0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "298",
+          "FileSize": "8605"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "daa77315-0e1c-4d07-aaba-247a53793036",
+        "Title": "Pommes- tous les fournisseurs",
+        "MediaUrl": "http://www.hellopro.fr/images/produit-2/5/2/2/pomme-golden-bio-1091225.jpg",
+        "SourceUrl": "http://www.hellopro.fr/pommes-2007597-fr-1-feuille.html",
+        "DisplayUrl": "www.hellopro.fr/pommes-2007597-fr-1-feuille.html",
+        "Width": "275",
+        "Height": "275",
+        "FileSize": "59138",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M2f4790046f5e17affe22a315dd97f1eao0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "275",
+          "Height": "275",
+          "FileSize": "6131"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9594a80f-1cbb-4495-afad-4c79aca40cf3",
+        "Title": "BGM. MAIGRIR AVEC LA METHODE DES BAS INDEX GLYCEMIQUES: Menu à bas IG ...",
+        "MediaUrl": "http://3.bp.blogspot.com/-ZaCod9yOARo/UCS9D0VqYlI/AAAAAAAAAlo/juQcXpN2ho8/s1600/pomme.jpg",
+        "SourceUrl": "http://aidedegilda.blogspot.com/2012/08/menu-bas-ig-du-samedi-11-aout-2012.html",
+        "DisplayUrl": "aidedegilda.blogspot.com/2012/08/menu-bas-ig-du-samedi-11-aout-2012...",
+        "Width": "1200",
+        "Height": "1200",
+        "FileSize": "787940",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc3889c45215065e27f7d1ba85647779cH0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "4850"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "88d7c011-abde-471f-b524-71ca9b5288eb",
+        "Title": "... Pomme à croquer de fin août à mi-septembre, excellente pour",
+        "MediaUrl": "http://www.domaine-darmandieu.com/UserFiles_darmandieu/image/montage%20pomme.jpg",
+        "SourceUrl": "http://www.domaine-darmandieu.com/articles-2/27-24-pommes/",
+        "DisplayUrl": "www.domaine-darmandieu.com/articles-2/27-24-pommes",
+        "Width": "1097",
+        "Height": "339",
+        "FileSize": "265800",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mf05745144788778e17393b41cfe2bf04o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "92",
+          "FileSize": "4518"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a48cb07c-335f-490a-8a77-75eaa3d0af53",
+        "Title": "Pomme : Explication Tête à modeler du mot pomme",
+        "MediaUrl": "http://www.teteamodeler.com/images/illustration/Image/pavcentral/pomme.jpg",
+        "SourceUrl": "http://www.teteamodeler.com/glossaire/mots/glos-p/pomme.asp",
+        "DisplayUrl": "www.teteamodeler.com/glossaire/mots/glos-p/pomme.asp",
+        "Width": "595",
+        "Height": "517",
+        "FileSize": "34631",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mfdbac6dddad0c487619f10db281b5093o0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "260",
+          "FileSize": "4862"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e0a31d37-b427-4086-ab89-90cd46b29833",
+        "Title": "POMME ...POMME...POMME posté le dimanche 05 octobre 2008 00:00",
+        "MediaUrl": "http://perlbal.hi-pi.com/blog-images/326054/gd/1223156127/POMME-POMME-POMME.jpg",
+        "SourceUrl": "http://mela.blogspace.be/20424/POMME-POMME-POMME/",
+        "DisplayUrl": "mela.blogspace.be/20424/POMME-POMME-POMME",
+        "Width": "500",
+        "Height": "421",
+        "FileSize": "20814",
+        "ContentType": "image/jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M5c595e250c654be30bc3d1134f40560do0&pid=15.1",
+          "ContentType": "image/jpg",
+          "Width": "300",
+          "Height": "252",
+          "FileSize": "5313"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='pomme'&$skip=50"
+  }
+}
