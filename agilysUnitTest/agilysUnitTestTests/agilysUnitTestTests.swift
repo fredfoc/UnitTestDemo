@@ -36,6 +36,7 @@ class agilysUnitTestTests: XCTestCase {
                 }
             }
         }
+        
         class MockDataProviderManagerNil: MockDataProviderManager, DataProviderProtocol {
             func jsonStringFromFile(fileName: String) -> String? {
                 return mockedJsonStringFromFile(.Nil)
@@ -45,7 +46,6 @@ class agilysUnitTestTests: XCTestCase {
         DataProviderManager.sharedInstance.dataProvider = MockDataProviderManagerNil()
         do {
             try DataProviderManager.sharedInstance.getResult()
-            XCTAssertTrue(true)
         } catch DataError.NoData {
             XCTAssertTrue(true)
         } catch {
